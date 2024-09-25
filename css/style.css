@@ -204,7 +204,7 @@ body {
     display: block;
     min-width: 1770px;
     height: 620px;
-    background-image: url(img/bg-balcon.jpg);
+    background-image: url(../img/bg-balcon.jpg);
 }
 
 .hero__title {
@@ -292,7 +292,7 @@ body {
     max-width: 868px;
     max-height: 622px;
     top: 321px;
-    background-image: url(img/card-left.png);
+    background-image: url(../img/card-left.png);
     border-radius: 32px;
     display: flex;
     justify-content: space-around;
@@ -801,6 +801,6 @@ body {
   }
 
 .footer-checkbox-custom:checked+label::before {
-    background-image: url(img/checkbox.svg);
+    background-image: url(../img/checkbox.svg);
     background-size: 100%;
   }
