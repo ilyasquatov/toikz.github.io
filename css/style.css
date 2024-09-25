@@ -115,10 +115,10 @@ body {
 
 .header__container {
     min-width: 1920px;
-    padding: 12px 82px;
+    padding: 13px 75px;
     display: flex;
     align-items: center;
-    margin-bottom: 50px;
+    margin-bottom: 48px;
 }
 
 .nav__list {
@@ -131,12 +131,12 @@ body {
 }
 
 .header__nav {
-    margin-right: 77px;
+    margin-right: 80px;
 }
 
 .btn_search {
-    width: 24px;
-    height: 24px;
+    width: 29px;
+    height: 29px;
     cursor: pointer;
     background-color: #fff;
 }
@@ -199,7 +199,7 @@ body {
 }
 
 .hero__content {
-    padding-top: 100px;
+    padding-top: 101px;
     padding-left: 80px;
     display: block;
     min-width: 1770px;
@@ -216,7 +216,7 @@ body {
     text-align: left;
     color: #FFFFFF;
     margin-top: 0;
-    margin-bottom: 24px;
+    margin-bottom: 22px;
 }
 
 .hero__desc {
@@ -268,7 +268,7 @@ body {
     line-height: 58.51px;
     text-align: left;
     color: #000;
-    margin-bottom: 19px;
+    margin-bottom: 21px;
 }
 
 .about__desc {
@@ -280,7 +280,7 @@ body {
     line-height: 32px;
     text-align: left;
     color: #000;
-    margin-bottom: 50px;
+    margin-bottom: 48px;
 }
 
 .about__cards {
@@ -565,7 +565,7 @@ body {
     min-width: 1920px;
     height: 594px;
     background-color: black;
-    padding: 75px 30px;
+    padding: 75px 75px;
 }
 
 .footer-content {
